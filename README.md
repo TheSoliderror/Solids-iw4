@@ -1,7 +1,7 @@
 # Solids-iw4 Mod
 
 # This mod adds:
--New UI /n
+-New UI
 -Bots
 -waepons(still being added)
 -class changer in game
